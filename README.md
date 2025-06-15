@@ -38,6 +38,6 @@ To purchase a license or get support:
 For any questions or issues:
 - 🎫 Open a ticket in our Discord server
 - 📩 Message rituals._ directly
-- ❓ Check the #faq channel in our server
+- ❓ Check the #faq channel in our server (Coming soon!)
 
 *Note: Refunds are not typically provided for digital products.*
